@@ -1,6 +1,0 @@
-POST http://localhost:8080/test
-content-type: application/json
-
-{
-  "string_to_cut": "iamyourlyftdriver"
-}
